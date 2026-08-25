@@ -23,6 +23,7 @@ All you need is a browser. Just click and play these games without any distracti
 ## Multiplayer
 
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval`
+- [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes, no accounts.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time`
 
 
