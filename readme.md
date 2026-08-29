@@ -25,6 +25,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval`
 - [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes, no accounts.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time`
+- [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local Multiplayer` - Classic Kings Cup on one shared device, 5 rule sets including an alcohol-free family mode.
 
 
 ## Contribute
