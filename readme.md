@@ -20,6 +20,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home at the same moment. Three new boards a day, past days stay playable.
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation`
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
+- [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching.
 
 
 ## Multiplayer
