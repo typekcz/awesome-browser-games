@@ -21,10 +21,10 @@ All you need is a browser. Just click and play these games without any distracti
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation`
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching.
+- [DeckGames](https://deckgames.io) - `Card` `Solitaire` `Casual` - Free card games in your browser — classic solitaire variants and chess, no download.
 
 
 ## Multiplayer
-
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval`
 - [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes, no accounts.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time`
