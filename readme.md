@@ -23,6 +23,8 @@ All you need is a browser. Just click and play these games without any distracti
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching.
 
+- [Relay Tangle](https://relay.rtggamelabs.com/) - `Puzzle` `Logic` - Solve eight relay-switch puzzles with touch or keyboard controls.
+- [Drift Dispatch](https://drift.rtggamelabs.com/) - `Arcade` `Physics` - Aim a courier skiff through currents and use a brake to reach the dock across five courses.
 
 ## Multiplayer
 
