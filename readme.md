@@ -12,7 +12,7 @@ All you need is a browser. Just click and play these games without any distracti
 
 ## Singleplayer
 
-- [Glimmer Haul](https://glimmer.rtggamelabs.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs; play a shared daily pattern or fresh worlds.
+- [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs; play a shared daily pattern or fresh worlds.
 - [Arrow Puzzle](https://arrowpuzzle.app/) - `Puzzle` `Logic` `Casual` - Trace curved paths and clear every arrow in the right order across 50 levels and a daily challenge.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` `Strategy` `Space`
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - `Puzzle` `Logic` `Daily` - Roll a cube whose inked side prints the square beneath it; print every mark and nothing else. Three new boards a day, past days stay playable.
