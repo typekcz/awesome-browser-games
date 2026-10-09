@@ -22,6 +22,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation`
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching.
+- [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone; every puzzle has one solution reachable by logic alone. Free, no ads, no registration.
 
 
 ## Multiplayer
