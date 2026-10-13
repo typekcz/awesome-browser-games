@@ -25,6 +25,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone; every puzzle has one solution reachable by logic alone. Free, no ads, no registration.
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - A cozy family each say what they saw in a room, and one of them is lying; check every story against their sight lines to catch the liar. One new case a day for everyone, free, no registration.
 
+- [Play Higher Lower](https://playhigherlower.com/daily) - `Trivia` `Estimation` `Daily` - Guess which item has the higher value in a shared daily comparison challenge; no sign-in required.
 
 ## Multiplayer
 
