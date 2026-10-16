@@ -24,6 +24,8 @@ All you need is a browser. Just click and play these games without any distracti
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone; every puzzle has one solution reachable by logic alone. Free, no ads, no registration.
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - A cozy family each say what they saw in a room, and one of them is lying; check every story against their sight lines to catch the liar. One new case a day for everyone, free, no registration.
+- [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit an army, fight real-time battles and sieges across an original realm, and claim the empty throne. Free, no registration.
+- [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Age-of-sail trading across ten island ports: buy low, sell high, refit your ship and grow your fortune within one in-game year. Free, no registration.
 
 - [Higher Lower](https://playhigherlower.com/play) - `Trivia` `Estimation` - Choose a topic and guess which item has the higher value; no sign-in required.
 
