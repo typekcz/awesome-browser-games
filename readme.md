@@ -22,18 +22,18 @@ All you need is a browser. Just click and play these games without any distracti
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation`
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching.
-- [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone; every puzzle has one solution reachable by logic alone. Free, no ads, no registration.
-- [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - A cozy family each say what they saw in a room, and one of them is lying; check every story against their sight lines to catch the liar. One new case a day for everyone, free, no registration.
-- [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit an army, fight real-time battles and sieges across an original realm, and claim the empty throne. Free, no registration.
-- [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Age-of-sail trading across ten island ports: buy low, sell high, refit your ship and grow your fortune within one in-game year. Free, no registration.
+- [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone; every puzzle has one solution reachable by logic alone.
+- [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - A cozy family each say what they saw in a room, and one of them is lying; check every story against their sight lines to catch the liar. One new case a day for everyone.
+- [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit an army, fight real-time battles and sieges across an original realm, and claim the empty throne.
+- [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Age-of-sail trading across ten island ports: buy low, sell high, refit your ship and grow your fortune within one in-game year.
 
-- [Higher Lower](https://playhigherlower.com/play) - `Trivia` `Estimation` - Choose a topic and guess which item has the higher value; no sign-in required.
+- [Higher Lower](https://playhigherlower.com/play) - `Trivia` `Estimation` - Choose a topic and guess which item has the higher value.
 
 ## Multiplayer
 
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval`
-- [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Your planet has momentum and stars have gravity; slingshot past them and ram rivals. No ads, no accounts.
-- [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes, no accounts.
+- [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Your planet has momentum and stars have gravity; slingshot past them and ram rivals.
+- [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time`
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local Multiplayer` - Classic Kings Cup on one shared device, 5 rule sets including an alcohol-free family mode.
 
