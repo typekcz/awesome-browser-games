@@ -20,18 +20,18 @@ All you need is a browser. Just click and play these games without any distracti
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - `Puzzle` `Logic` `Daily` - Roll a cube whose inked side prints the square beneath it.
 - [LemmingsJS](https://lemmingsjs.oklemenz.de/) - `Puzzle` `Strategy` `Real-Time`
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - Each say what they saw in a room, and one of them is lying.
-- [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Relaxing game that blends Sudoku-style placement with Minesweeper-like deduction.
+- [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Blends Sudoku-style placement with Minesweeper-like deduction.
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation`
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
-- [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail trading between ports: buy low, sell high, refit your ship and grow your fortune.
+- [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit, battle and siege.
-- [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - 5 daily Wordle-style games (Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram).
+- [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - 5 daily games: Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram.
 
 ## Multiplayer
 
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval`
-- [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local Multiplayer` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
+- [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
 - [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time`
