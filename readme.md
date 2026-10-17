@@ -18,7 +18,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs.
 - [Higher Lower](https://playhigherlower.com/play) - `Trivia` `Estimation` - Choose a topic and guess which item has the higher value.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - `Puzzle` `Logic` `Daily` - Roll a cube whose inked side prints the square beneath it.
-- [LemmingsJS](https://lemmingsjs.oklemenz.de/) - `Puzzle` `Strategy` `Real-Time`
+- [LemmingsJS](https://lemmingsjs.oklemenz.de/) - `Puzzle` `Strategy` `Real-Time` - Guide lemmings through obstacles to reach an exit.
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - Each say what they saw in a room, and one of them is lying.
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Blends Sudoku-style placement with Minesweeper-like deduction.
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
