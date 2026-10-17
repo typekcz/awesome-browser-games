@@ -26,7 +26,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit, battle and siege.
-- [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - 5 daily games: Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram.
+- [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - Daily games: Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram.
 
 ## Multiplayer
 
