@@ -11,6 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - Linked game should have no or minimal ads, no registration and no other distractions from the game itself.
 - Entries should be in alphabetical order by game name.
 - Use this format: `[Name](Link) `Tags` `Tags` `Tags` - Optional short description`
+- Each entry must fit on a single line on the GitHub repository front page (approximately 115 characters max, excluding the link).
 
 Thank you for your suggestions!
 
