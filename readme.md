@@ -23,7 +23,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Blends Sudoku-style placement with Minesweeper-like deduction.
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation` - Transporting passengers, minerals and goods via road, rail, water and air.
-- [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG`
+- [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit, battle and siege.
 - [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - Daily games: Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram.
