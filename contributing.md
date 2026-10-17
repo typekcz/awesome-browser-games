@@ -9,6 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Linked game should have no or minimal ads, no registration and no other distractions from the game itself.
+- Entries should be in alphabetical order by game name.
 - Use this format: `[Name](Link) `Tags` `Tags` `Tags` - Optional short description`
 
 Thank you for your suggestions!
