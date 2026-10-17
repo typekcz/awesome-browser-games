@@ -33,7 +33,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval`
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
-- [Parlour](https://parlour.cards) - `Card` `Multiplayer` `P2P` - Browser card table, Blitz and Wild, room codes.
+- [Parlour](https://parlour.cards) - `Card` `P2P` - Browser card table, Blitz and Wild, room codes.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time`
 
 
