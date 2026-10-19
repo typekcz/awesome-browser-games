@@ -35,6 +35,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
 - [Parlour](https://parlour.cards) - `Card` `P2P` - Browser card table, Blitz and Wild, room codes.
+- [Pokemon Arena 2D](https://poke2darena.com/) - `Action` `Real-Time` `Fan game` - Fan-made 2D Pokemon arena: gym bosses and online 1v1.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time` - Battle worms armed with wide arsenal of weapons.
 
 
