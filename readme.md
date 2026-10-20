@@ -16,6 +16,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
 - [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs.
+- [Gravity Golf](https://artigram.cafeboon.com/p/dh7qraw) - `Puzzle` `Physics` `Casual` - Slingshot a probe past twelve solar systems.
 - [Higher Lower](https://playhigherlower.com/play) - `Trivia` `Estimation` - Choose a topic and guess which item has the higher value.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - `Puzzle` `Logic` `Daily` - Roll a cube whose inked side prints the square beneath it.
 - [LemmingsJS](https://lemmingsjs.oklemenz.de/) - `Puzzle` `Strategy` `Real-Time` - Guide lemmings through obstacles to reach an exit.
