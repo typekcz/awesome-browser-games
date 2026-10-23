@@ -13,6 +13,7 @@ All you need is a browser. Just click and play these games without any distracti
 ## Singleplayer
 
 - [Arrow Puzzle](https://arrowpuzzle.app/) - `Puzzle` `Logic` `Casual` - Trace curved paths and clear every arrow in the right order.
+- [Continuum](https://www.scalargame.com/continuum) - `Puzzle` `Estimation` `Daily` - Drag countries into place on a hidden scale like population or area.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
 - [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs.
@@ -27,7 +28,10 @@ All you need is a browser. Just click and play these games without any distracti
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation` - Transporting passengers, minerals and goods via road, rail, water and air.
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
+- [Scalar](https://www.scalargame.com/scalar) - `Puzzle` `Geography` `Daily` - Deduce the mystery country from distance, area and population clues.
+- [Tectonic](https://www.scalargame.com/tectonic) - `Puzzle` `Geography` `Daily` - Place each country beside its neighbours to build a 3D globe.
 - [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit, battle and siege.
+- [Whenabouts](https://www.scalargame.com/whenabouts) - `Trivia` `History` `Daily` - Place five historical events on the year you think each happened.
 - [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - Daily games: Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram.
 
 ## Multiplayer
