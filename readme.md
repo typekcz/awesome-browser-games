@@ -12,6 +12,7 @@ All you need is a browser. Just click and play these games without any distracti
 
 ## Singleplayer
 
+- [2 Minute Drill](https://2mindrillgame.org/) - `Sports` `Strategy` `Daily` - Take over a real NFL ending: call plays and manage the clock.
 - [Arrow Puzzle](https://arrowpuzzle.app/) - `Puzzle` `Logic` `Casual` - Trace curved paths and clear every arrow in the right order.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
