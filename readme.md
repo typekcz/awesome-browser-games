@@ -28,6 +28,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation` - Transporting passengers, minerals and goods via road, rail, water and air.
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
+- [Plain Game](https://plaingame.fun/) - `Trivia` `Estimation` `Daily` - Name things near a target number or estimate a fact in seven daily rounds.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Scalar](https://www.scalargame.com/scalar) - `Puzzle` `Geography` `Daily` - Deduce the mystery country from distance, area and population clues.
 - [Tectonic](https://www.scalargame.com/tectonic) - `Puzzle` `Geography` `Daily` - Place each country beside its neighbours to build a 3D globe.
