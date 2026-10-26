@@ -38,6 +38,7 @@ All you need is a browser. Just click and play these games without any distracti
 
 ## Multiplayer
 
+- [Curvytron 2](https://curvytron2.com/) - `Action` `Real-Time` - A tron/snake game in 3D: steer a trail and be the last one alive.
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval` - Inspired by classic real-time strategy games.
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
