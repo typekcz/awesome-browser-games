@@ -31,6 +31,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Rarest Answer](https://rarestanswer.com/?ref=awesome-browser-games) - `Trivia` `Daily` - Name the correct answer nobody else gives; rarer answers score more.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Scalar](https://www.scalargame.com/scalar) - `Puzzle` `Geography` `Daily` - Deduce the mystery country from distance, area and population clues.
+- [SnakeRank](https://snakerank.app/) - `Arcade` `Casual` `Leaderboard` - Classic Snake; each run counts toward an indie app you pick. Sign-in only to rank.
 - [Tectonic](https://www.scalargame.com/tectonic) - `Puzzle` `Geography` `Daily` - Place each country beside its neighbours to build a 3D globe.
 - [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit, battle and siege.
 - [Whenabouts](https://www.scalargame.com/whenabouts) - `Trivia` `History` `Daily` - Place five historical events on the year you think each happened.
