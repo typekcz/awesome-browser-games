@@ -15,7 +15,9 @@ All you need is a browser. Just click and play these games without any distracti
 - [2 Minute Drill](https://2mindrillgame.org/) - `Sports` `Strategy` `Daily` - Take over a real NFL ending: call plays and manage the clock.
 - [Arrow Puzzle](https://arrowpuzzle.app/) - `Puzzle` `Logic` `Casual` - Trace curved paths and clear every arrow in the right order.
 - [Continuum](https://www.scalargame.com/continuum) - `Puzzle` `Estimation` `Daily` - Drag countries into place on a hidden scale like population or area.
+- [Daily Red Pokemon](https://daily-red.app/) - `Strategy` `Turn-Based` `Fan game` - Beat Red's known team in 3v3 Quick Play or a six-ally Daily battle.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
+- [Farflung](https://farflunggame.fun/) - `Puzzle` `Geography` `Daily` - Pin a country for each of five clues; less obvious answers score more.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
 - [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs.
 - [Gravity Golf](https://artigram.cafeboon.com/p/dh7qraw) - `Puzzle` `Physics` `Casual` - Slingshot a probe past twelve solar systems.
