@@ -17,6 +17,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Continuum](https://www.scalargame.com/continuum) - `Puzzle` `Estimation` `Daily` - Drag countries into place on a hidden scale like population or area.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
+- [Geometry Dash JP](https://geometrydashjp.com/) - `Rhythm` `Platformer` `Arcade` - Unofficial browser Geometry Dash-style rhythm game.
 - [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs.
 - [Gravity Golf](https://artigram.cafeboon.com/p/dh7qraw) - `Puzzle` `Physics` `Casual` - Slingshot a probe past twelve solar systems.
 - [Higher Lower](https://playhigherlower.com/play) - `Trivia` `Estimation` - Choose a topic and guess which item has the higher value.
