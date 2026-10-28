@@ -41,6 +41,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval` - Inspired by classic real-time strategy games.
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
+- [Lightline](https://lightline-game.vercel.app/) - `Racing` `Real-Time` `3D` `P2P` - Neon light-bike duels with your own AI-built 3D rider.
 - [Noillirk](https://noillirk.pro/) - `Party` `Word` `Real-Time` - Guess the most common answer to a prompt; live rooms with friends.
 - [Parlour](https://parlour.cards) - `Card` `P2P` - Browser card table, Blitz and Wild, room codes.
 - [Pokemon Arena 2D](https://poke2darena.com/) - `Action` `Real-Time` `Fan game` - Fan-made 2D Pokemon arena: gym bosses and online 1v1.
