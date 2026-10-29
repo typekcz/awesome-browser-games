@@ -44,6 +44,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Noillirk](https://noillirk.pro/) - `Party` `Word` `Real-Time` - Guess the most common answer to a prompt; live rooms with friends.
 - [Parlour](https://parlour.cards) - `Card` `P2P` - Browser card table, Blitz and Wild, room codes.
 - [Pokemon Arena 2D](https://poke2darena.com/) - `Action` `Real-Time` `Fan game` - Fan-made 2D Pokemon arena: gym bosses and online 1v1.
+- [Trick or Take](https://trickortake.com/) - `Action` `Party` `Real-Time` - Snatch candy in 60-second multiplayer runs with live voice chat.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time` - Battle worms armed with wide arsenal of weapons.
 
 
