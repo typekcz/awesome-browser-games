@@ -28,6 +28,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - Each say what they saw in a room, and one of them is lying.
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Blends Sudoku-style placement with Minesweeper-like deduction.
 - [Morningwit Daily](https://morningwit.com/daily/) - `Puzzle` `Logic` `Daily` - One Binairo or Star Battle grid a day, same for everyone, layered hints.
+- [Number Route by BrainiLab](https://brainilabgames.com/games/number-route/) - `Puzzle` `Maths` - Keep four numbers in order; choose operators left to right.
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation` - Transporting passengers, minerals and goods via road, rail, water and air.
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
