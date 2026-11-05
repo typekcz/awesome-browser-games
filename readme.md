@@ -46,6 +46,7 @@ All you need is a browser. Just click and play these games without any distracti
 
 - [Curvytron 2](https://curvytron2.com/) - `Action` `Real-Time` - A tron/snake game in 3D: steer a trail and be the last one alive.
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval` - Inspired by classic real-time strategy games.
+- [Huss Valley Game](https://hussvalley.io/) - `Action` `Real-Time` `Halloween` - Free Halloween chase game for up to 30 players, no download.
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
 - [Lightline](https://lightline-game.vercel.app/) - `Racing` `Real-Time` `3D` `P2P` - Neon light-bike duels with your own AI-built 3D rider.
