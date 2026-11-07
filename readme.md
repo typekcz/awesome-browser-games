@@ -16,6 +16,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [aipoker.bot](https://aipoker.bot/) - `Card` `Strategy` - Poker against LLMs and classic bots, each move with the model's reason.
 - [Arrow Puzzle](https://arrowpuzzle.app/) - `Puzzle` `Logic` `Casual` - Trace curved paths and clear every arrow in the right order.
 - [Continuum](https://www.scalargame.com/continuum) - `Puzzle` `Estimation` `Daily` - Drag countries into place on a hidden scale like population or area.
+- [Daily Word Games](https://dailywordgames.org/) - `Puzzle` `Word` `Daily` - Wordle, Spelling Bee-style Hive, word search, mini crossword and hangman.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [EraGuessr](https://eraguessr.ai/play/daily) - `History` `Geography` `Daily` - Guess a panorama's place and year.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
@@ -27,6 +28,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [LemmingsJS](https://lemmingsjs.oklemenz.de/) - `Puzzle` `Strategy` `Real-Time` - Guide lemmings through obstacles to reach an exit.
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - Each say what they saw in a room, and one of them is lying.
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Blends Sudoku-style placement with Minesweeper-like deduction.
+- [Midi Crossword](https://midicross.com/) - `Puzzle` `Word` `Daily` - A new 10x10 crossword every day, the same for everyone.
 - [Morningwit Daily](https://morningwit.com/daily/) - `Puzzle` `Logic` `Daily` - One Binairo or Star Battle grid a day, same for everyone, layered hints.
 - [Number Route by BrainiLab](https://brainilabgames.com/games/number-route/) - `Puzzle` `Maths` - Keep four numbers in order; choose operators left to right.
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
