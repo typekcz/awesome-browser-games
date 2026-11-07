@@ -31,6 +31,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Number Route by BrainiLab](https://brainilabgames.com/games/number-route/) - `Puzzle` `Maths` - Keep four numbers in order; choose operators left to right.
 - [One Step Late](https://arkai.win/games/one-step-late/) - `Puzzle` `Logic` `Daily` - Your shadow repeats each move one turn late; bring both of you home.
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation` - Transporting passengers, minerals and goods via road, rail, water and air.
+- [Outlier: Unlimited Krillion Game](https://playkrillion.net/) - `Trivia` `Word` `Daily` - A free unlimited Krillion game: endless prompts, no daily cap. Name something that fits, and the rarer your answer, the further your UFO flies.
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
 - [PokéBonk](https://pokebonk.info/) - `Roguelike` `Survivor` `Fan game` - Fan Pokémon survivor playable in-browser with wiki tools.
 - [Rarest Answer](https://rarestanswer.com/?ref=awesome-browser-games) - `Trivia` `Daily` - Name the correct answer nobody else gives; rarer answers score more.
