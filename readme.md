@@ -40,6 +40,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Tectonic](https://www.scalargame.com/tectonic) - `Puzzle` `Geography` `Daily` - Place each country beside its neighbours to build a 3D globe.
 - [Thornreach](https://goblinarcade.com/play/thornreach) - `Strategy` `Real-Time` `Medieval` - Rise from landless knight to ruler: recruit, battle and siege.
 - [Whenabouts](https://www.scalargame.com/whenabouts) - `Trivia` `History` `Daily` - Place five historical events on the year you think each happened.
+- [Wikle](https://www.wikle.io/) - `Trivia` `Daily` - Race between Wikipedia articles using only the links inside each one.
 - [WordleLike](https://wordlelike.com/) - `Puzzle` `Word` `Casual` - Daily games: Wordle, Word Hurdle, Mini Crossword, Word Search, Anagram.
 
 ## Multiplayer
