@@ -45,6 +45,7 @@ All you need is a browser. Just click and play these games without any distracti
 ## Multiplayer
 
 - [Curvytron 2](https://curvytron2.com/) - `Action` `Real-Time` - A tron/snake game in 3D: steer a trail and be the last one alive.
+- [Don't Block Me Quiz](https://dontblockmequiz.net/) - `Trivia` `Party` - Answer 10 questions about yourself; friends play your link for a score.
 - [Escape Room Night](https://escaperoomnight.com/) - `Puzzle` `Co-op` `Party` - Story escape rooms solved together in a shared room-code lobby.
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval` - Inspired by classic real-time strategy games.
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
