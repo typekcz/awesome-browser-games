@@ -58,6 +58,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Parlour](https://parlour.cards) - `Card` `P2P` - Browser card table, Blitz and Wild, room codes.
 - [PewPewPew](https://pewpewpew.io/) - `Action` `Real-Time` `Space` `Shooter` - Fly, blast rocks and rival pilots, grab power-ups in live rooms.
 - [Pokemon Arena 2D](https://poke2darena.com/) - `Action` `Real-Time` `Fan game` - Fan-made 2D Pokemon arena: gym bosses and online 1v1.
+- [Tour du Pain](https://tourdupain.app/) - `Sports` `Real-Time` `3D` - Ride French climbs together on your smart trainer, with voice chat.
 - [Trick or Take](https://trickortake.com/) - `Action` `Party` `Real-Time` - Snatch candy in 60-second multiplayer runs with live voice chat.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time` - Battle worms armed with wide arsenal of weapons.
 
