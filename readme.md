@@ -34,6 +34,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Pips Hints](https://pipshints.org/) - `Puzzle` `Logic` `Daily` - Daily NYT Pips hints and answers, plus free unlimited domino puzzles.
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
 - [PokéBonk](https://pokebonk.info/) - `Roguelike` `Survivor` `Fan game` - Fan Pokémon survivor playable in-browser with wiki tools.
+- [Poopleunlimited](https://poopleunlimited.app/) - `Puzzle` `Word` `Casual` - Free unlimited word-ladder practice in the browser with no daily lock.
 - [Rarest Answer](https://rarestanswer.com/?ref=awesome-browser-games) - `Trivia` `Daily` - Name the correct answer nobody else gives; rarer answers score more.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Scalar](https://www.scalargame.com/scalar) - `Puzzle` `Geography` `Daily` - Deduce the mystery country from distance, area and population clues.
