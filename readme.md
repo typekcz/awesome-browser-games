@@ -60,6 +60,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Pokemon Arena 2D](https://poke2darena.com/) - `Action` `Real-Time` `Fan game` - Fan-made 2D Pokemon arena: gym bosses and online 1v1.
 - [Trick or Take](https://trickortake.com/) - `Action` `Party` `Real-Time` - Snatch candy in 60-second multiplayer runs with live voice chat.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time` - Battle worms armed with wide arsenal of weapons.
+- [Word Spies](https://wordspies.com/) - `Word` `Party` `Team` - Codenames-style clue game (not affiliated); any seat can be a friend or an AI.
 
 
 ## Contribute
