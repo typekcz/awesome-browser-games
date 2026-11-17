@@ -62,6 +62,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Tour du Pain](https://tourdupain.app/) - `Sports` `Real-Time` `3D` - Ride French climbs together on your smart trainer, with voice chat.
 - [Trick or Take](https://trickortake.com/) - `Action` `Party` `Real-Time` - Snatch candy in 60-second multiplayer runs with live voice chat.
 - [WebLiero](https://www.webliero.com/) - `Action` `Real-Time` - Battle worms armed with wide arsenal of weapons.
+- [Word Spies](https://wordspies.com/) - `Word` `Party` `Team` - Codenames-style clue game (not affiliated); any seat can be a friend or an AI.
 
 
 ## Contribute
