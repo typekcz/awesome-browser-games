@@ -16,6 +16,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [aipoker.bot](https://aipoker.bot/) - `Card` `Strategy` - Poker against LLMs and classic bots, each move with the model's reason.
 - [Arrow Puzzle](https://arrowpuzzle.app/) - `Puzzle` `Logic` `Casual` - Trace curved paths and clear every arrow in the right order.
 - [Continuum](https://www.scalargame.com/continuum) - `Puzzle` `Estimation` `Daily` - Drag countries into place on a hidden scale like population or area.
+- [Crowd Pick](https://noillirk.best/#practice) - `Trivia` `Casual` - Guess the most popular answer in seven untimed prompts.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [EraGuessr](https://eraguessr.ai/play/daily) - `History` `Geography` `Daily` - Guess a panorama's place and year.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
