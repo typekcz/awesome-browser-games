@@ -36,6 +36,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
 - [PokéBonk](https://pokebonk.info/) - `Roguelike` `Survivor` `Fan game` - Fan Pokémon survivor playable in-browser with wiki tools.
 - [Rarest Answer](https://rarestanswer.com/?ref=awesome-browser-games) - `Trivia` `Daily` - Name the correct answer nobody else gives; rarer answers score more.
+- [ReflexTimer](https://reflextimer.com/) - `Skill` `Reaction` `Daily` - Five-round reaction test plus click-speed, aim and memory tests; instant percentile results.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Scalar](https://www.scalargame.com/scalar) - `Puzzle` `Geography` `Daily` - Deduce the mystery country from distance, area and population clues.
 - [SnakeRank](https://snakerank.app/) - `Arcade` `Casual` - Classic Snake; every run backs an indie app you pick.
