@@ -23,6 +23,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
 - [Geometry Dash JP](https://geometrydashjp.com/) - `Rhythm` `Platformer` `Arcade` - Unofficial browser Geometry Dash-style rhythm game.
 - [Glimmer Haul](https://glimmer.dayplaygames.com/) - `Arcade` `Casual` `Daily` - Bank sparks through hoops in 75-second runs.
+- [Grand Theft Tractor](https://redneck.hertzmc.com/) - `Open World` `Driving` `3D` - Redneck parody: steal tractors, run moonshine, dodge deputies. 18+.
 - [Gravity](https://gravity.hertzmc.com/) - `Arcade` `Casual` `Space` - Eat smaller space rocks to grow from pebble to black hole.
 - [Gravity Golf](https://artigram.cafeboon.com/p/dh7qraw) - `Puzzle` `Physics` `Casual` - Slingshot a probe past twelve solar systems.
 - [Hangman](https://cv.cm/en/hangman/) - `Word` `Puzzle` `Casual` - Guess the word in English, Spanish or Indonesian, or set one for a friend.
