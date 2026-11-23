@@ -18,6 +18,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [CheckersClub](https://checkersclub.com/bots) - `Board` `Strategy` `Turn-Based` - Play draughts against the computer.
 - [Continuum](https://www.scalargame.com/continuum) - `Puzzle` `Estimation` `Daily` - Drag countries into place on a hidden scale like population or area.
 - [Crowd Pick](https://noillirk.best/#practice) - `Trivia` `Casual` - Guess the most popular answer in seven untimed prompts.
+- [Daily Category Sprint](https://pufferparty.org/categories-game/) - `Word` `Casual` `Daily` - Name distinct answers in 45 seconds.
 - [DailyPlay Sudoku](https://dailyplay.com/play/sudoku) - `Puzzle` `Logic` `Daily` - Classic 9x9 Sudoku with one new grid a day, the same for everyone.
 - [EraGuessr](https://eraguessr.ai/play/daily) - `History` `Geography` `Daily` - Guess a panorama's place and year.
 - [FTL: Faster Than Light (Demo)](https://www.humblebundle.com/play/asmjs/ftl_asm_demo/demo) - `Roguelite` `Real-Time` - Adventure in a galaxy filled with glory and bitter defeat.
