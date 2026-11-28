@@ -30,6 +30,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - `Puzzle` `Logic` `Daily` - Roll a cube whose inked side prints the square beneath it.
 - [LemmingsJS](https://lemmingsjs.oklemenz.de/) - `Puzzle` `Strategy` `Real-Time` - Guide lemmings through obstacles to reach an exit.
 - [Lie of Sight](https://lieofsight.com/) - `Puzzle` `Logic` `Daily` - Each say what they saw in a room, and one of them is lying.
+- [Lights Out 5x5](https://myonlinegames.top/games/lights-out/) - `Puzzle` `Logic` - Toggle cross-shaped tiles to switch every light off on solvable 5x5 grids.
 - [Meowdoku](https://playmeowdoku.com) - `Puzzle` `Logic` - Blends Sudoku-style placement with Minesweeper-like deduction.
 - [Morningwit Daily](https://morningwit.com/daily/) - `Puzzle` `Logic` `Daily` - One Binairo or Star Battle grid a day, same for everyone, layered hints.
 - [Number Route by BrainiLab](https://brainilabgames.com/games/number-route/) - `Puzzle` `Maths` - Keep four numbers in order; choose operators left to right.
